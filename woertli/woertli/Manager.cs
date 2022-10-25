@@ -21,6 +21,20 @@ namespace woertli
             SetLanguages();
         }
 
+        public int GetNumber()
+        {
+            string? input;
+            int n;
+            bool criteria;
+            Console.WriteLine("[1] Next word");
+            Console.WriteLine("[2] I was correct!");
+            while (criteria = (!Int32.TryParse(input = Console.ReadLine(), out n) || n < 0 | n > 2))
+            {
+                Console.WriteLine("[1] Next word");
+                Console.WriteLine("[2] I was correct!");
+            }
+            return n;
+        }
         private void SetLanguages()
         {
             string firstLine = File.ReadLines(Location).First();
@@ -37,7 +51,7 @@ namespace woertli
             Console.WriteLine("Please enter the number of the language you want to start with:");
             Console.WriteLine($"1) {FirstLanguage}");
             Console.WriteLine($"2) {SecondLanguage}");
-            while (criteria = (!Int32.TryParse(input = Console.ReadLine(), out n) || n < 2))
+            while (criteria = (!Int32.TryParse(input = Console.ReadLine(), out n) | n < 0 | n > 2))
             {
                 Console.WriteLine("Please enter the number of the language you want to start with:");
                 Console.WriteLine($"1) {FirstLanguage}");
@@ -65,6 +79,7 @@ namespace woertli
                             sb.Append(", " + wordPairs[i + 1]);
                         }
                     }
+                    _dictionary.Remove(FirstLanguage);
                     break;
 
                 case 2:
@@ -80,11 +95,12 @@ namespace woertli
                             sb.Append(", " + wordPairs[i]);
                         }
                     }
+                    _dictionary.Remove(SecondLanguage);
                     break;
 
                 default: break;
             }
-            
+
             return _dictionary;
         }
 
@@ -93,6 +109,14 @@ namespace woertli
             Random rand = new Random();
             dictionary = dictionary.OrderBy(x => rand.Next()).ToDictionary(item => item.Key, item => item.Value);
             return dictionary;
+        }
+
+        public bool TrueOrFalse(string answer, string value)
+        {
+            string answerWithoutSpaces = answer.Replace(" ", "").ToLower();
+            string valueWithoutSpaces = value.Replace(" ", "").ToLower();
+
+            return answerWithoutSpaces == valueWithoutSpaces;
         }
     }
 }
