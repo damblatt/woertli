@@ -1,0 +1,215 @@
+﻿(Taschen)Rechner|calculator
+Digitalkamera|digital camera
+Geschirrspülmaschine|dishwasher
+E-Reader|e-reader
+Kühlgefriergerät|fridge-freezer
+Kopfhörer|headphones
+Heimkinosystem|home cinema system
+Laptop|laptop
+Rasenmäher|lawnmower
+Glühbirne|light bulb
+Mikrowelle|microwave oven
+Mobiltelefon|mobile phone
+MP3-Player|MP3 player
+Musikanlage|music system
+Fernbedienung|remote control
+Navigationssystem|satnav
+Lautsprecher|speaker
+Staubsauger|vacuum cleaner
+Waschmaschine|washing machine
+aufladen|charge
+verbinden|connect
+anzeigen, Anzeige; ausstellen|display
+einlegen; hineinstecken|insert
+installieren|install
+Stecker|plug
+einstecken; anschließen|plug in
+eine Taste drücken|press a button
+wiederaufladen|recharge
+neuinstallieren, wieder montieren|reinstall
+auswählen|select
+Auswahl|selection
+ausschalten|switch off
+einschalten|switch on
+den Bildschirm antippen|tap the screen
+ausschalten|turn off
+einschalten|turn on
+deinstallieren|uninstall
+entfernen, ausstecken|unplug
+Süchtige(r)|addict
+süchtig nach|addicted to
+Sucht|addiction
+süchtig machtend, suchterzeugend|addictive
+Angst haben vor|be afraid of
+bewusst|aware of
+Bewusstein|awareness
+gelangweilt von, überdrüssig|bored with/of
+Langeweile|boredom
+langweilig|boring
+abweichen von, anders sein als|differ from
+Unterschied|difference
+verschieden von; anders als|different from
+Entfernung; Abstand|distance
+(weit) entfernt von|distant from
+gut sein in|good at
+interessiert sein an; sich interessieren für|be interested in
+Verantwortungslosigkeit|irresponsibility
+verantwortungslos, unverantwortlich|irresponsible
+zufrieden sein mit|be pleased with
+Bereitschaft|readiness
+bereit sein für|be ready for
+Verantwortung|responsibility
+verantwortlich sein für|be responsible for
+ähnlich sein wie|be similar to
+Ähnlichkeit|similarity
+ermüden|tire
+etw. leid sein|be tired of
+Müdigkeit, Ermüdung|tiredness
+lästig, mühsam, ermüdend|tiresome
+ermüdend, anstrengend, erschöpfend|tiring
+besorgt sein über|be worried about
+Klebstoff, Leim; klebend, anhaftend|adhesive
+Angelegenheiten|affairs
+analysiert|analysed
+Analyse|analysis
+jährlich (Adverb)|annually
+streiten; argumentieren|argue
+Streit(gespräch), Diskussion; Argument|argument
+autonom, selbständig, eigenständig|autonomous
+Selbstständigkeit, Eigenverantwortung|autonomy
+Mülleimer; Behälter|bin
+Brainstorming, Ideenfindung|brainstorming
+Bemerkung, Kommentar zu|comment on
+komponieren|compose
+Komponist|composer
+Zusammenstellung; Aufsatz; Musikstück|composition
+beitragen zu|contribute to
+Beitrag zu|contribution to
+Mitwirkender, Mitgestalter, Beitragender zu|contributor to
+Kupfer|copper
+definieren; bestimmen|define
+Definition|definition
+Gerät; Apparat|device
+entwickeln, konzipieren, sich ausdenken|devise
+entdecken|discover
+Entdecker|discoverer
+Entdeckung|discovery
+Notfall|emergency
+Notaufnahme (Krankenhaus)|emergency room
+Experiment|experiment
+reparieren; beheben|fix
+Funktion|function
+funktional, praktisch|functional
+technische Spielerei|gadget
+hervorbringen, generieren; erzeugen|generate
+Erzeugung, Entwicklung; Generation|generation
+humorvoll|humorous
+Humor; Stimmung|humour
+Unwahrscheinlichkeit|improbability
+unwahrscheinlich|improbable
+individuell; persönlich|individual
+Innovation; Neuerung|innovation
+innovativ; neuartig|innovative
+Inspiration, Eingebung, Einfall|inspiration
+inspirierend; begeisternd|inspirational
+inspirieren|inspire
+inspirierend; anregend|inspiring
+Erfindung|invention
+erfinderisch, einfallsreich|inventive
+Erfinder|inventor
+Erforschung, Untersuchung|investigation
+Ermittler, Prüfer, Fahnder|investigator
+Zeitschrift|journal
+Journalist|journalist
+führen (führte, geführt)|lead (led, led)
+Leiter/Leiterin|leader
+Logik|logic
+logisch; schlüssig|logical
+Millisekunde|millisecond
+Bewegung|motion
+Netzwerk|network
+Nobelpreis|Nobel prize
+Online-Einkauf|online shopping
+insgesamt; gesamt|overall
+dauerhaft|permanent
+Philosoph|philosopher
+philosophisch|philosophical
+philosophieren|philosophize
+Philosophie|philosophy
+Rohrleitung|pipe
+Wahrscheinlichkeit|probability
+wahrscheinlich|probable
+Verfahren; Vorgehen|procedure
+Prozess|process
+Psychologe/Psychologin|psychologist
+Publizierung, Veröffentlichung|publication
+veröffentlichen|publish
+erreichen|reach
+reagieren mit|react with
+aufnehmen|record
+Forschung|research
+löslich|soluble
+Lösung|solution
+lösbar|solvable
+lösen|solve
+Spezialist/Spezialistin|specialist
+sich spezialisieren auf|specialize in
+Wasserhahn|tap
+Technik, Methode|technique
+Titel (auf CD)|track
+übersetzen|translate
+Übersetzung|translation
+Übersetzer|translator
+erwerben|acquire
+Erwerb|acquisition
+rückwärts|backwards
+blinzeln|blink
+erröten, rot werden|blush
+Fehler; Insekt, Wanze|bug
+Berechnung|calculation
+Kollege/Kollegin|colleague
+kompliziert, vielschichtig|complex
+Komplexität, Vielschichtigkeit|complexity
+abstürzen; Absturz|crash
+Fehler|error
+ethisch; moralisch (vertretbar)|ethical
+explodieren; in die Höhe schiessen|explode
+Datei|file
+füllen|fill
+ausfüllen, eintragen|fill in
+passen|fit
+Duft; Parfüm|fragrance
+satt; voll|full
+loswerden|get rid of
+Auf Nimmerwiedersehen!|Good riddance!
+tratschen/klatschen|gossip
+handlich, praktisch|handy
+Beitrag; Eingabe; (Energie)Zufuhr|input
+interviewen, befragen|interview
+starten, einführen; Start, Markteinführung|launch
+Fehlfunktion|malfunction
+unordentlich; kompliziert|messy
+Wunder|miracle
+endlos, nicht endend|never-ending
+nicken, zustimmen|nod
+Atomkraftwerk|nuclear reactor
+Betriebssystem|operating system
+Weltall|outer space
+patrouillieren; Streife gehen|patrol
+umbauen; wieder aufbauen (baute um, umgebaut)|rebuild (rebuilt, rebuilt)
+rechnen mit, schätzen, meinen|reckon
+Wissenschaft|science
+wissenschaftlich|scientific
+Wissenschaftler(in)|scientist
+böse dreinschauen, finster blicken|scowl
+Bildschirm|screen
+Wartung; Inspektion; warten|service
+die Schultern zucken|shrug
+Dampfmaschine|steam engine
+Erfolg darin haben, zu tun; erfogreich sein in|succeed in doing
+Erfolg|success
+erfolgreich|successful
+Schlauch|tube
+erfolglos|unsuccessful
+ungeduldig warten|wait impatiently
+Röntgenapparat|X-ray machine
