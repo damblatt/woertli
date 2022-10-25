@@ -1,4 +1,5 @@
-﻿(Taschen)Rechner|calculator
+﻿Deutsch|Englisch
+(Taschen)Rechner|calculator
 Digitalkamera|digital camera
 Geschirrspülmaschine|dishwasher
 E-Reader|e-reader

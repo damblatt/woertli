@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace woertli
 {
-    internal class Menu
+    internal class Round
     {
-        public void SelectGameMode(int gameMode)
-        {
-        }
     }
 }
